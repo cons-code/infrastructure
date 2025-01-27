@@ -1,0 +1,12 @@
+numpy
+pandas
+datetime
+matplotlib
+seaborn
+scikit-learn
+scipy
+minio
+psycopg2-binary
+contractions
+bs4
+nltk
